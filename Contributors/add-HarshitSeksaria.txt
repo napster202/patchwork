@@ -1,0 +1,9 @@
+Hello World, This is Harshit Here.
+
+Well, The World outside knows me as DudeCoder.
+
+I'm an Enthusiastic Android Developer and a Geek!
+
+Right now, I know C, C++, Java, JavaScript, Python, Kotlin, C#, HTML, CSS, XML, Firebase Realtime Database, Firebase Authentication, SQLite Database in terms of Android-Dev, numpy, matplotlib, Django.
+
+And the List keeps growing on, because I love learning new things, Things that fascinate me.
